@@ -1,0 +1,2 @@
+Prefix plugins/GCContig/example/
+Plugin GCContig inputfile parameters.txt outputfile contig_GC.txt
